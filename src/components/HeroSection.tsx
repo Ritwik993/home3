@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const HeroSection=()=>{
     return(
-        <div className="flex flex-col items-center justify-center text-center mb-[60px]">
+        <div className="flex flex-col items-center justify-center text-center mb-[60px] ">
             <p className="text-[#0084FF] md:mb-[40px] mb-[30px] text-[16px] md:text-[20px] ">Find fast-growing brands, not low quality stores</p>
             <div className="relative md:mb-[40px] mb-[30px]">
                 <p className="text-[#2F327D] font-bold md:text-[56px] text-[32px] md:leading-[70px] leading-[42px]">A Store Leads Alternative,<br/><span className="text-[#0084FF]"> 10X Better </span>in Every Way</p>

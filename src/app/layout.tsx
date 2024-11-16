@@ -22,9 +22,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${poppins.className} bg-[#F3F3F5] overflow-x-hidden`}>
-        <div className="containerbox relative">
-          <Navbar/>
+        <div className="containerbox  ">
           <main className=''>          
+          <Navbar/>
             {children}
             </main>
           </div>   

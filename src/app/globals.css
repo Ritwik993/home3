@@ -22,6 +22,7 @@ body, html {
   min-height: 100vh;
   padding-left: 50px;
   padding-right:50px;
+  /* z-index: 1000; */
 }
 
 .containerbox1 {
